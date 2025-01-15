@@ -54,7 +54,7 @@ Step 1) and 2) remains the same.
 5) A menu will appear in the console. Press 1 for "Train Model".
 6) Console will show training progress percentage and epochs remaining.
 6) The transe_model.pth file will be updated with trained weights or a new transe_model.pth will be created if not provided in the folder.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 Here we are providing the link to the GERBIL Experiment of the generated result.ttl file.
 Link - https://gerbil-kbc.aksw.org/gerbil/experiment?id=202501150032
 Thankyou.
