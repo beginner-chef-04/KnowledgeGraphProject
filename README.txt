@@ -1,4 +1,4 @@
-######----------------A Detailed Description Of How The Approach Works--------------------######
+##########-------------------------------A Detailed Description Of How The Approach Works--------------------------------------##########
 We have used TransE Knowledge Graph Embedding model for fact checking in the knowledge graph.
 
 Knowledge Graph Embedding represents the entities and relations of a knowledge graph with a high dimension vector. These vectors preserves the features of individual entities and relations. 
@@ -24,7 +24,7 @@ Margin = 1.0
 Epochs = 100 (trained model two times with 50 epochs each)
 Learning Rate = 0.01
 
-#######----------------Clear Instructions On How To Execute The Code----------------------######
+###########--------------------------------Clear Instructions On How To Execute The Code----------------------------------------##########
 Steps:-
 1) Install python. (We used python version 3.12.7)
 2) Install the following packages in python.
@@ -54,5 +54,7 @@ Step 1) and 2) remains the same.
 5) A menu will appear in the console. Press 1 for "Train Model".
 6) Console will show training progress percentage and epochs remaining.
 6) The transe_model.pth file will be updated with trained weights or a new transe_model.pth will be created if not provided in the folder.
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Here we are providing the link to the GERBIL Experiment of the generated result.ttl file.
+Link - https://gerbil-kbc.aksw.org/gerbil/experiment?id=202501150032
 Thankyou.
